@@ -1,10 +1,11 @@
 <script setup>
-import Home from './components/Home.vue'
 </script>
 
 <template>
   <div>
-    <Home/>
+    <h3>
+      Test
+    </h3>
   </div>
 </template>
 
